@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Russell Stephens
+- 👀 I’m interested in Full-Stack Web Development
+- 🌱 I’m currently learning CSS after having learned intermediate level HTML. Javascript is next on my list.
+- 📫 reach me: 1(937)489-9735
